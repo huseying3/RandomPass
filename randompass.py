@@ -372,13 +372,7 @@ if a1=="20":
 
   
 
- 
 
-if a1>"21":
 
-  print("")
 
-  print("Malesef...")
-
-  print("Şifren 4 ile 20 hane arasında olmalıdır")
 
